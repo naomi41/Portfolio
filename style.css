@@ -86,8 +86,17 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
 @media (max-width: 576px ){
     h1{
         font-size: 50px;
+    }
+    .button{
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+    }
+    .im{
+    text-align: center;
     }
 }
